@@ -1,0 +1,19 @@
+.login{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    background-color: #14171A;
+    width: 50%;
+    height: 100%;
+    justify-self: center;
+    align-self: center;
+
+    border-radius: 10px;
+}
+.input{
+   margin: 20px;
+   border: none;
+   border-radius: 10px; 
+   height: 40px;
+
+}

@@ -1,0 +1,51 @@
+.alnaysis{
+    margin-top: 20px;
+    background: #14171A;
+    width: 50%;
+    word-wrap: break-word;
+    color: aliceblue;
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* padding: 10px; */
+    margin: auto;
+    padding: 30px;
+    /* padding-bottom: 30px; */
+    border: solid 1px rgba(255, 255, 255, 0.303);
+}
+
+.file_name{
+    color:beige ;
+    width: 100%;
+    text-align: center;
+}
+
+.file_text{
+    text-align: center;
+}
+
+
+.top_values{
+    width: 100%;
+    text-align: center;
+}
+
+.one_pair{
+    margin: 10px;
+}
+
+.inner_singel{
+    margin: 10px;
+}
+
+
+.freq_bigram{
+   
+    width: 100%;
+    color:green;
+    word-wrap: break-word;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    box-sizing: border-box;
+    text-align: center;
+}
